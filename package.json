@@ -14,7 +14,7 @@
     "sass": "sass scss:css -w --no-source-map"
   },
   "keywords": [],
-  "author": "Alejandro Cerezo",
+  "author": "Franz Salinas",
   "license": "ISC",
   "prettier": {
     "singleQuote": true

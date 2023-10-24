@@ -5,7 +5,7 @@ export abstract class Character {
   family: string;
   age: number;
   isAlive: boolean;
-  protected personalQuote: string;
+  personalQuote: string;
   category!: Category;
 
   constructor(name: string, family: string, age: number) {
